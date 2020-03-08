@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheerivae.publiceervoormij.nl/sitemap.xml
